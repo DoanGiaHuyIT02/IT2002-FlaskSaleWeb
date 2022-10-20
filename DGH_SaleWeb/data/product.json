@@ -1,0 +1,25 @@
+[{
+ "id": 1,
+ "name": "iPhone 7 Plus",
+ "description": "Apple, 32GB, RAM: 3GB, iOS13",
+ "price": 17000000,
+ "image":
+"https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn2.cellphones.com.vn%2F358x%2Fmedia%2Fcatalog%2Fproduct%2F_%2F0%2F_0003_iphone-7-plus-1_2_3_1_1.jpg&imgrefurl=https%3A%2F%2Fcellphones.com.vn%2Fiphone-7-plus-32-gb-old.html&tbnid=xGHkocQjfbqYWM&vet=12ahUKEwjSmPvA2e36AhVHBaYKHZuCClAQMygAegUIARDiAQ..i&docid=tlP4U7ylueVKQM&w=358&h=358&q=iPhone%207%20Plus&ved=2ahUKEwjSmPvA2e36AhVHBaYKHZuCClAQMygAegUIARDiAQ",
+ "category_id": 1
+}, {
+ "id": 2,
+ "name": "iPad Pro 2020",
+ "description": "Apple, 128GB, RAM: 6GB",
+ "price": 37000000,
+ "image":
+"https://cdn.tgdd.vn/Products/Images/522/221775/ipad-pro-12-9-inch-wifi-128gb-2020-xam-400x460-1-400x460.png",
+ "category_id": 2
+}, {
+ "id": 3,
+ "name": "Galaxy Note 10 Plus",
+"description": "Samsung, 64GB, RAML: 6GB",
+ "price": 24000000,
+ "image":
+"https://cdn.tgdd.vn/Products/Images/42/214909/samsung-galaxynote-10-lite-chi-tiet-1-400x460.png",
+ "category_id": 1
+}]
